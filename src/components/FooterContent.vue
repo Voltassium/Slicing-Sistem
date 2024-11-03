@@ -55,6 +55,5 @@
     <p class="text-base leading-7 text-white opacity-70">
       Hello@finsweet.com 020 7993 2905
     </p>
-    <SocialWrapper/>
   </footer>
 </template>

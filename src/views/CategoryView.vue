@@ -19,7 +19,6 @@
         <div class="flex gap-8 max-md:flex-col">
           <!-- Articles -->
           <div class="w-2/3 space-y-14 max-md:w-full">
-            <!-- Article 1 -->
             <div class="flex gap-8 max-md:flex-col">
               <img src="../../image/Gambar-Category.png" alt="Business visual 1" class="w-1/3 max-md:w-full" />
               <article class="w-2/3 max-md:w-full">
@@ -31,7 +30,6 @@
               </article>
             </div>
 
-            <!-- Article 2 -->
             <div class="flex gap-8 max-md:flex-col">
               <img src="../../image/Gambar-Category.png" alt="Business visual 2" class="w-1/3 max-md:w-full" />
               <article class="w-2/3 max-md:w-full">
@@ -43,7 +41,6 @@
               </article>
             </div>
 
-            <!-- Article 3 -->
             <div class="flex gap-8 max-md:flex-col">
               <img src="../../image/Gambar-Category.png" alt="Business visual 3" class="w-1/3 max-md:w-full" />
               <article class="w-2/3 max-md:w-full">
@@ -55,7 +52,6 @@
               </article>
             </div>
 
-            <!-- Article 4 -->
             <div class="flex gap-8 max-md:flex-col">
               <img src="../../image/Gambar-Category.png" alt="Business visual 4" class="w-1/3 max-md:w-full" />
               <article class="w-2/3 max-md:w-full">
