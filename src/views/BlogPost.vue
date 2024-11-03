@@ -28,7 +28,7 @@
                 <div class="flex justify-center gap-x-2 items-center">
                     <div class="flex relative z-0 items-center gap-x-4">
                         <div class="absolute left-0 z-0 w-12 inset-y-0 bg-no-repeat bg-center bg-contain"
-                            style="background-image: url('../../image/Icon-Startup.jpg');">
+                            style="background-image: url('../../image/Icon-Startup.png');">
                         </div>
                         <Icon class="z-[2] flex-shrink-0 h-12 w-12" />
                         <div class="text-x-verydarkgrey text-[23px] leading-10 font-bold group-hover:text-white">

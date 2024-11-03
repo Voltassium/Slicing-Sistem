@@ -5,7 +5,7 @@
     <!-- Hero Section -->
     <section class="bg-gray-100 text-center p-20 max-md:px-5">
       <div class="max-w-[302px] mx-auto">
-        <h1 class="text-5xl font-bold text-gray-800 max-md:text-4xl">
+        <h1 class="text-4xl font-bold text-gray-800 max-md:text-4xl">
           Privacy Policy
         </h1>
         <p class="mt-1 text-base opacity-60">
